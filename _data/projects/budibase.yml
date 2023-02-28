@@ -1,0 +1,13 @@
+name: Budibase
+desc: Budibase is a no-code GUI that makes it easier and faster to build internal tools - coding optional.
+site: https://github.com/Budibase/budibase
+tags:
+  - low-code
+  - no-code
+  - beginner
+  - javascript
+  - css
+  - internal tools
+upforgrabs:
+  name: Good first issue
+  link: https://github.com/Budibase/budibase/labels/good%20first%20issue
